@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+.venv.nosync/
+.autoenv.zsh
+.autoenv_leave.zsh
