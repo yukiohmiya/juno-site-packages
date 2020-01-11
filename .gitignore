@@ -3,5 +3,5 @@
 .autoenv.zsh
 .autoenv_leave.zsh
 site-packages/
-Kaggle/titanic/data/
+data/
 manage.ipynb
